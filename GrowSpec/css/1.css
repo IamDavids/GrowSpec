@@ -1,0 +1,112 @@
+* {
+	padding:0;
+	margin:0;
+	list-style:none;
+	text-decoration:none;
+}
+
+.box {
+	  width:800px;
+	  margin:100px auto;
+	  border:1px solid #aaa;
+	  height:800px;
+	
+
+}
+ .left {
+ 	float:left;
+ }
+header {
+	 height:35px;
+	 background-color: skyblue;
+	 line-height: 35px;
+	 color:#fff;
+	 padding-left:5px;
+}
+
+.big-picture  {
+	  width:370px;
+	  padding:10px;
+	  height:335px;
+	  overflow:hidden;
+	  margin-top:10px;
+
+	}
+
+  .small-picture {
+  	margin-left:38px;
+  	margin-top:20px;
+  }
+
+  ul li {
+	margin-right:12px;
+}
+ .small-picture li {
+ 	 width:58px;
+ 	 height:58px;
+ 	 border:1px solid #aaa;
+ 	 float:left;
+ }	
+
+  .small-picture li:hover {
+  	cursor:pointer;
+  }
+
+
+
+ /* 阴影部分 */
+ .active {
+ 	
+ 	box-shadow:2px 2px 5px black;
+ }
+
+
+ .right {
+ 	float:right;
+ 	width:408px;
+ 	
+ }
+
+ .right h2 {
+ 	  margin-top:13px;
+ 	  font-size:22px;
+ }
+ .right p {
+ 	 font-size:15px;
+ 	 margin-top:10px;
+ 	 line-height:23px;
+
+ }
+
+ .list ul {
+ 	margin-top:15px;
+ }
+
+ .list ul li {
+ 	 margin-top:8px;
+ 	
+ 	 font-size:15px;
+ }
+
+ .list ul li span {
+ 	color:yellowgreen;
+ 	font-size:16px;
+ 	font-weight:bold;
+ 	padding-right:5px;
+ }
+
+ .login p {
+ 	 font-size:18px;
+ 	 margin-left:18px;
+ }
+ button {
+ 	width:80px;
+ 	height:37px;
+ 	background-color: skyblue;
+ 	color:#fff;
+ 	font-size:20px;
+ 	margin-left:110px;
+ 	margin-top:7px;
+ 	cursor:pointer;
+ }
+ 

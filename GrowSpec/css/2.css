@@ -1,0 +1,124 @@
+  *{
+  	padding:0;
+  	margin:0;
+  	list-style:none;
+  	text-decoration:none;
+  }
+
+
+ .box {
+ 	width:988px;
+ 	margin:100px auto;
+ 	border:1px solid #bbb;
+ 	padding:20px;
+
+ }
+ .box h1 {
+ 	text-align:center;
+ 	color:yellowgreen;
+ 	font-size:41px;s
+ }
+ 
+  .line {
+  	width:142px;
+  	height:4px;
+  	background-color: lightblue;
+  	margin-left:427px;
+  	margin-top:9px;
+  }
+
+ .box .int {
+ 	
+ 	margin-top:30px;
+ 	font-size:16px;
+ 	margin-bottom:28px;
+ }
+
+ 
+
+ form {
+ 	margin-right:20px;
+ 	width:953px;
+ }
+
+ .form h4 {
+ 	margin-top:18px;
+ 	margin-bottom:15px;
+ 	font-size:15px;
+ }
+
+ .form #inp1,.form #inp2 {
+ 	width:460px;
+ 	height:25px;
+ 	margin-right:8px;
+
+ }
+
+  .form #inp1 {
+  	padding-left:4px;
+  }
+
+ .form #inp2 {
+ 	margin-right:0;
+ 	padding-left:4px;
+ }
+
+ .form span{
+ 	font-size:14px;
+ 	font-weight:bold;
+ 	color:gray;
+
+ }
+ .form .aa:nth-child(odd) {
+ 	   margin-left:452px;
+ }
+
+ .form #eml {
+ 	width:938px;
+ 	height:25px;
+ 	padding-left:5px;
+ 	font-size:16px;
+ 	margin-right:10px;
+
+
+ }
+
+ .form #spc {
+ 	width:200px;
+ }
+
+ .form p {
+ 	font-size:14px;
+ 	font-weight:bold;
+ 	color:gray;
+ }
+
+ .form #spe {
+ 	margin-left:452px;
+ }
+
+ .form .speci {
+ 	   margin-top:7px;
+ }
+ .form b {
+ 	 font-size:13px;
+ 	 font-weight:bold;
+ 	 color:black;
+ }
+
+ .form button {
+ 	 width:80px;
+ 	 height:40px;
+ 	 border-radius:10px;
+ 	 background-color: yellowgreen;
+ 	 color:#fff;
+ 	 font-size:17px;
+ 	 margin-top:20px;
+ }
+ .form #juan  {
+ 	display:inline;
+ 	width:465px;
+ 	height:30px;
+ 
+ 	
+ }
